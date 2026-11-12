@@ -1,0 +1,24 @@
+{
+  "name": "dosbox-automation",
+  "owner": {
+    "name": "dosbox-automation",
+    "email": "dosbox-automation-project@trinity2k.net"
+  },
+  "metadata": {
+    "description": "Claude plugins of the dosbox-automation project",
+    "version": "0.86.0"
+  },
+  "plugins": [
+    {
+      "name": "dosbox-automation",
+      "source": "./plugins/dosbox-automation",
+      "description": "This plugin teaches Claude to drive DOS programs and games in the dosbox-automation emulator: start and stop it, type and press keys, read the screen, mount folders, disk images and archives, record video and audio, run Lua scripts inside the emulator, and find values in a game's memory.",
+      "version": "0.86.0",
+      "author": { "name": "dosbox-automation" },
+      "homepage": "https://dosbox-automation.org",
+      "license": "GPL-2.0-or-later",
+      "category": "development",
+      "keywords": ["dos", "msdos", "dosbox", "emulator", "retro", "retrogaming", "games", "gaming", "automation", "debugging", "recording", "testing", "lua"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+dosbox-automation plugin for Claude: Licensing Notice
+-----------------------------------------------------
+
+The dosbox-automation plugin for Claude is licensed under the GNU General
+Public License version 2 or later (GPL-2.0-or-later).
+
+The full license text is in LICENSE.
+
+The files in plugins/dosbox-automation/skills/dosbox-automation/references/
+are the agent handbook of the dosbox-automation emulator, copied unchanged
+from its docs/agents/ folder under the same license.

@@ -1,0 +1,20 @@
+{
+  "name": "dosbox-automation",
+  "displayName": "dosbox-automation",
+  "version": "0.86.0",
+  "description": "This plugin teaches Claude to drive DOS programs and games in the dosbox-automation emulator: start and stop it, type and press keys, read the screen, mount folders, disk images and archives, record video and audio, run Lua scripts inside the emulator, and find values in a game's memory.",
+  "author": {
+    "name": "dosbox-automation",
+    "url": "https://dosbox-automation.org"
+  },
+  "homepage": "https://dosbox-automation.org",
+  "repository": "https://github.com/dosbox-automation/dosbox-automation-skill",
+  "documentationUrl": "https://github.com/dosbox-automation/dosbox-automation-skill/tree/main/plugins/dosbox-automation#readme",
+  "supportUrl": "https://github.com/dosbox-automation/dosbox-automation-skill/issues",
+  "privacyPolicyUrl": "https://github.com/dosbox-automation/dosbox-automation-skill/blob/main/plugins/dosbox-automation/PRIVACY.md",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "dos", "msdos", "dosbox", "emulator", "retro", "retrogaming", "games",
+    "gaming", "automation", "debugging", "recording", "testing", "lua"
+  ]
+}
